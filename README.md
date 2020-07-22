@@ -1,6 +1,8 @@
+# Site Calculator
+
+This script calculates the size of my website.
+
 ## Installation
-
-
 
 ## Screenshot
 
