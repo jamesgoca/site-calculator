@@ -1,9 +1,12 @@
 import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # Configuration variables
 
 home = os.path.expanduser("~")
-project_folder = os.path.join(home, "Projects/jamesg-blog/website/_site")
+project_folder = os.path.join(home, os.environ.get("calculate_folder"))
 allowed_extensions = ["html", "css"]
 
 # Conversion helper functions
