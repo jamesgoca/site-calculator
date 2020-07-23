@@ -2,6 +2,8 @@
 
 This script calculates the size of files recursively in a folder. I am using it to calculate the sizes of my website.
 
+See a sample report in the [sample_report.txt](https://github.com/jamesgoca/site-calculator/blob/master/sample_report.txt) file.
+
 ## Installation
 
 To get started, clone this repository:
