@@ -1,0 +1,162 @@
+File Name: resume.html
+Size in Bytes: 3068
+Size in Kilobytes: 3.0
+Size in Megabytes: 0.002926
+
+
+File Name: blog.html
+Size in Bytes: 7708
+Size in Kilobytes: 7.53
+Size in Megabytes: 0.007351
+
+
+File Name: index.html
+Size in Bytes: 2372
+Size in Kilobytes: 2.32
+Size in Megabytes: 0.002262
+
+
+File Name: contact.html
+Size in Bytes: 1543
+Size in Kilobytes: 1.51
+Size in Megabytes: 0.001472
+
+
+File Name: 404.html
+Size in Bytes: 1205
+Size in Kilobytes: 1.18
+Size in Megabytes: 0.001149
+
+
+File Name: identity.html
+Size in Bytes: 4647
+Size in Kilobytes: 4.54
+Size in Megabytes: 0.004432
+
+
+File Name: projects.html
+Size in Bytes: 2650
+Size in Kilobytes: 2.59
+Size in Megabytes: 0.002527
+
+
+File Name: blog_history.html
+Size in Bytes: 4348
+Size in Kilobytes: 4.25
+Size in Megabytes: 0.004147
+
+
+File Name: links.html
+Size in Bytes: 2956
+Size in Kilobytes: 2.89
+Size in Megabytes: 0.002819
+
+
+File Name: 2020/07/20/documenting-my-code.html
+Size in Bytes: 6614
+Size in Kilobytes: 6.46
+Size in Megabytes: 0.006308
+
+
+File Name: 2020/07/18/building-the-garfield-cli.html
+Size in Bytes: 6683
+Size in Kilobytes: 6.53
+Size in Megabytes: 0.006373
+
+
+File Name: 2020/07/11/accessibility.html
+Size in Bytes: 8781
+Size in Kilobytes: 8.58
+Size in Megabytes: 0.008374
+
+
+File Name: 2020/07/16/open-source-software.html
+Size in Bytes: 7168
+Size in Kilobytes: 7.0
+Size in Megabytes: 0.006836
+
+
+File Name: 2020/07/17/trust-in-software.html
+Size in Bytes: 7394
+Size in Kilobytes: 7.22
+Size in Megabytes: 0.007051
+
+
+File Name: 2020/07/10/internet-self-sufficiency.html
+Size in Bytes: 8864
+Size in Kilobytes: 8.66
+Size in Megabytes: 0.008453
+
+
+File Name: 2020/07/21/simple-websites.html
+Size in Bytes: 6718
+Size in Kilobytes: 6.56
+Size in Megabytes: 0.006407
+
+
+File Name: 2020/07/23/writing-for-the-command-line.html
+Size in Bytes: 6854
+Size in Kilobytes: 6.69
+Size in Megabytes: 0.006536
+
+
+File Name: 2020/07/15/designing-simple-websites.html
+Size in Bytes: 6869
+Size in Kilobytes: 6.71
+Size in Megabytes: 0.006551
+
+
+File Name: 2020/07/12/hand-coded-html.html
+Size in Bytes: 8785
+Size in Kilobytes: 8.58
+Size in Megabytes: 0.008378
+
+
+File Name: 2020/07/13/text-only-websites.html
+Size in Bytes: 6057
+Size in Kilobytes: 5.92
+Size in Megabytes: 0.005776
+
+
+File Name: 2020/07/14/keeping-backups.html
+Size in Bytes: 5982
+Size in Kilobytes: 5.84
+Size in Megabytes: 0.005705
+
+
+File Name: 2020/07/22/bandwidth-conservation.html
+Size in Bytes: 6739
+Size in Kilobytes: 6.58
+Size in Megabytes: 0.006427
+
+
+File Name: 2020/06/20/web-directories.html
+Size in Bytes: 9428
+Size in Kilobytes: 9.21
+Size in Megabytes: 0.008991
+
+
+File Name: 2020/06/16/web-pages-are-canvases.html
+Size in Bytes: 13945
+Size in Kilobytes: 13.62
+Size in Megabytes: 0.013299
+
+
+File Name: 2020/06/17/breaking-up-with-the-tech-giants.html
+Size in Bytes: 15115
+Size in Kilobytes: 14.76
+Size in Megabytes: 0.014415
+
+
+File Name: 2020/06/19/surfing-the-net.html
+Size in Bytes: 15166
+Size in Kilobytes: 14.81
+Size in Megabytes: 0.014463
+
+
+File Name: assets/css/styles.css
+Size in Bytes: 695
+Size in Kilobytes: 0.68
+Size in Megabytes: 0.000663
+
+
