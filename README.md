@@ -29,11 +29,11 @@ This project uses Python 3 so you will need to run it in a Python 3 shell.
 
 ## Screenshot
 
-![Screenshot of the site calculator)[https://github.com/jamesgoca/site-calculator/blob/master/screenshot.png?raw=true]
+![Screenshot of the site calculator](https://github.com/jamesgoca/site-calculator/blob/master/screenshot.png?raw=true)
 
 ## License
 
-This project is licensed using an MIT license. See more information in [LICENSE.md](https://github.com/jamesgoca/garfield-cli/blob/master/LICENSE.md).
+This project is licensed using an MIT license. See more information in [LICENSE.md](https://github.com/jamesgoca/site-calculator/blob/master/LICENSE.md).
 
 ## Authors
 
