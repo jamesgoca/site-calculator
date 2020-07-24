@@ -67,7 +67,7 @@ def print_full_report(all_files, sizes, styles):
 	print("Site Report")
 	print("*" * 15)
 
-	with open("site_report.txt", "w+") as file:
+	with open("full_site_report.txt", "w+") as file:
 		for i in all_files:
 			file_name = "File Name: " + i["name"]
 			size_in_bytes = "Size in Bytes: " + str(i["size_in_bytes"])
@@ -93,16 +93,33 @@ def print_full_report(all_files, sizes, styles):
 			if styles != None:
 				print(site_with_styles + "\n")
 
+	print("Site report saved to full_site_report.txt.")
+
 def print_overview(all_files, sizes):
 	print("*" * 15)
 	print("Overall Statistics")
 	print("*" * 15)
 
-	print("Total Size (Kb): " + str(convertToKilobytes(sum(sizes))))
-	print("Average File Size (Kb): " + str(convertToKilobytes(sum(sizes) / len(sizes))))
-	print("Total Size (Mb): " + str(convertToMegabytes(sum(sizes))))
-	print("Average File Size (Mb): " + str(convertToMegabytes(sum(sizes) / len(sizes))))
+	total_size_kb = "Total Size (Kb): " + str(convertToKilobytes(sum(sizes)))
+	average_file_size_kb = "Average File Size (Kb): " + str(convertToKilobytes(sum(sizes) / len(sizes)))
+	total_size_mb = "Total Size (Mb): " + str(convertToMegabytes(sum(sizes)))
+	average_file_size_mb = "Average File Size (Mb): " + str(convertToMegabytes(sum(sizes) / len(sizes)))
+
+	print(total_size_kb)
+	print(average_file_size_kb)
+	print(total_size_mb)
+	print(average_file_size_mb)
 
 	print("Largest Page: " + largestPage(all_files, sizes) + "\n")
 
-	print("Site report saved to site_report.txt.")
+	with open("overview_site_report.txt", "w+") as file:
+		file.write("*" * 15 + "\n")
+		file.write("Overall Statistics" + "\n")
+		file.write("*" * 15 + "\n\n")
+
+		file.write(total_size_kb + "\n")
+		file.write(average_file_size_kb + "\n")
+		file.write(total_size_mb + "\n")
+		file.write(average_file_size_mb + "\n")
+
+	print("Site report saved to overview_site_report.txt.")
